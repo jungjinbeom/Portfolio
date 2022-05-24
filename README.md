@@ -5,7 +5,7 @@
 * 2020-06 ~ 2020-07
 
 🎓 사용 기술
-* Front : Html Css JavaScript JQuery, TailWind
+* Front : Html, Css, JavaScript, JQuery, TailWind
 * Back : Java, Spring, SpringSecurity, Mabatis, Mysql 
 
 🎓 목표 및 성과
